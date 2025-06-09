@@ -11,7 +11,7 @@ import SwiftUI
 struct Neshinavi2App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SplashView()
         }
     }
 }
